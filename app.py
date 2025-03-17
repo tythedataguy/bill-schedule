@@ -102,7 +102,9 @@ app.layout = html.Div([
     ], style={'textAlign': 'center'}),
 
     # Download Link
-    dcc.Download(id="download-dataframe-csv")
+    dcc.Download(id="download-dataframe-csv"),
+
+    "Free Demo Designed by Quantitative Edge LLC"
 ])
 
 # Callbacks
@@ -146,7 +148,7 @@ def save_csv(n_clicks, table_data):
 
         print(f"✅ Saving {len(updated_df)} rows to CSV.")  # Debugging line
 
-        return dcc.send_data_frame(updated_df.to_csv, "custom_bills.csv", index=False)
+        return dcc.send_data_frame(updated_df.to_csv, "Custom Bill List.csv", index=False)
 
 if __name__ == '__main__':
     app.run_server(debug=False, host="0.0.0.0", port=8080)
