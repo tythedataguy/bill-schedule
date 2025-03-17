@@ -129,5 +129,16 @@ def update_table(selected_chambers, selected_days, selected_committees):
     
     return filtered_df.to_dict("records")
 
+@app.callback(
+    Output("download-dataframe-csv", "data"),
+    Input("save-button", "n_clicks"),
+    Input("bill-table", "data"),
+    prevent_initial_call=True
+)
+def save_csv(n_clicks, table_data):
+    if ctx.triggered_id == "save-button":
+        updated_df = pd.DataFrame(table_data)
+        return dcc.send_data_frame(updated_df.to_csv, "filtered_bills.csv", index=False)
+
 if __name__ == '__main__':
     app.run_server(debug=False, host="0.0.0.0", port=8080)
