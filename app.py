@@ -1,5 +1,6 @@
 import dash
-from dash import dcc, html, Input, Output, ctx, dash_table
+from dash import dcc, html, Input, Output, ctx, dash_tablefrom, no_update
+
 import pandas as pd
 import plotly.express as px
 import os
@@ -136,9 +137,15 @@ def update_table(selected_chambers, selected_days, selected_committees):
     prevent_initial_call=True
 )
 def save_csv(n_clicks, table_data):
-    if ctx.triggered_id == "save-button":
-        updated_df = pd.DataFrame(table_data)
-        return dcc.send_data_frame(updated_df.to_csv, "filtered_bills.csv", index=False)
+    if not table_data:
+        print("⚠️ No data to save!")
+        return no_update
+
+    updated_df = pd.DataFrame(table_data)
+
+    print(f"✅ Saving {len(updated_df)} rows to CSV.")  # Debugging line
+
+    return dcc.send_data_frame(updated_df.to_csv, "custom_bills.csv", index=False)
 
 if __name__ == '__main__':
     app.run_server(debug=False, host="0.0.0.0", port=8080)
