@@ -1,5 +1,5 @@
 import dash
-from dash import dcc, html, Input, Output, ctx, dash_tablefrom, no_update
+from dash import dcc, html, Input, Output, ctx, dash_table, no_update
 
 import pandas as pd
 import plotly.express as px
