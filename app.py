@@ -26,8 +26,11 @@ def load_data():
 # Load data
 df = load_data()
 
-sunburst_fig = px.sunburst(df, path=['Chamber', 'Day', 'Committee Name'], title="Distribution of Bills by Chamber, Day, and Committee")
-
+sunburst_fig = px.sunburst(df, path=['Chamber', 'Day', 'Committee Name'])
+sunburst_fig.update_layout(
+    height=800,
+    margin=dict(l=50, r=50, t=50, b=50)
+)
 
 # Initialize Dash app
 app = dash.Dash(__name__)
@@ -39,8 +42,10 @@ app.layout = html.Div([
 
     dcc.Graph(
         id="sunburst-chart",
-        figure=sunburst_fig
+        figure=sunburst_fig,
+        style={"height": "800px", "width": "100%"}
     ),
+
 
     html.Div([
         dcc.Dropdown(
