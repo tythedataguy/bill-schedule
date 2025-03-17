@@ -1,6 +1,7 @@
 import dash
 from dash import dcc, html, Input, Output, ctx, dash_table
 import pandas as pd
+import plotly.express as px
 import os
 
 # Define CSV file path
@@ -25,6 +26,9 @@ def load_data():
 # Load data
 df = load_data()
 
+sunburst_fig = px.sunburst(df, path=['Chamber', 'Day', 'Committee Name'], title="Distribution of Bills by Chamber, Day, and Committee")
+
+
 # Initialize Dash app
 app = dash.Dash(__name__)
 server = app.server  # Required for Render
@@ -33,7 +37,11 @@ server = app.server  # Required for Render
 app.layout = html.Div([
     html.H1("Texas Legislature Bills Dashboard", style={'textAlign': 'center'}),
 
-    # Filters
+    dcc.Graph(
+        id="sunburst-chart",
+        figure=sunburst_fig
+    ),
+
     html.Div([
         dcc.Dropdown(
             id="chamber-filter",
