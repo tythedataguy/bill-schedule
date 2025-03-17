@@ -11,11 +11,13 @@ def load_data():
     if os.path.exists(DATA_FILE) and os.path.getsize(DATA_FILE) > 0:
         df = pd.read_csv(DATA_FILE)
         required_columns = ["Chamber", "Day", "Committee Name", "Bill Number", "Bill Author", "Caption", "Stance"]
+        
         if all(col in df.columns for col in required_columns):
             return df
         else:
             print("⚠️ Warning: CSV file is missing required columns!")
             return pd.DataFrame(columns=required_columns)
+    
     else:
         print("⚠️ Warning: No CSV file found! Returning empty dataframe.")
         return pd.DataFrame(columns=["Chamber", "Day", "Committee Name", "Bill Number", "Bill Author", "Caption", "Stance"])
@@ -56,7 +58,7 @@ app.layout = html.Div([
         )
     ], style={'textAlign': 'center', 'marginBottom': '20px'}),
 
-    # Data Table
+    # Data Table (Left-Aligned, Text Wrapping for Caption)
     html.Div([
         dash_table.DataTable(
             id="bill-table",
@@ -67,7 +69,16 @@ app.layout = html.Div([
             row_selectable="multi",
             filter_action="native",
             sort_action="native",
-            page_size=20
+            page_size=20,
+            style_cell={
+                'textAlign': 'left',
+                'whiteSpace': 'normal',  # Enables text wrapping
+                'height': 'auto',  # Adjusts row height dynamically
+            },
+            style_data_conditional=[
+                {"if": {"column_id": "Caption"}, "whiteSpace": "normal", "textAlign": "left"},
+                {"if": {"column_id": "Stance"}, "whiteSpace": "normal", "textAlign": "left"},
+            ]
         )
     ], style={'textAlign': 'left', 'marginLeft': '20px'}),
 
