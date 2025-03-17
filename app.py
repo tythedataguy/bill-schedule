@@ -113,7 +113,7 @@ app.layout = html.Div([
     # Download Link
     dcc.Download(id="download-dataframe-csv"),
 
-    "Free Demo Designed by Quantitative Edge LLC"
+    "Demo Designed by Quantitative Edge LLC"
 ])
 
 # Callbacks
