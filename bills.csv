@@ -1,503 +1,521 @@
-Day,Committee Name,Bill Number,Bill Author,Caption,Stance
-Monday,"Public
+Chamber,Day,Committee Name,Bill Number,Bill Author,Caption,Stance
+House,Monday,"Public
   Health",HB 713,         Howard                                                 ,"Relating to an exception to certain reporting requirements for health care   providers reviewing selected cases for the Texas Maternal Mortality and   Morbidity Review Committee.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 827,         Howard                                                 ,"Relating to the use of grant money awarded to reduce workplace violence   against nurses.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 932,         Walle                                                  ,Relating to the Occupational Therapy Licensure Compact; authorizing fees.,
-Monday,"Public
+House,Monday,"Public
   Health",HB 499,"         Gonzalez,","Mary                                              Relating to a warning label on social media platforms concerning the   association between a minor's social media usage and significant mental   health issues.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 510,"         Lopez,","Ray                                                 Relating to the issuance of a certified birth record to a homeless   individual.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 163,         Cortez                                                 ,"Relating to the possession and administration of an epinephrine auto-injector   by certain entities.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 296,"         Harris","Davila                                              Relating to the issuance of a license to practice medicine to certain   applicants licensed or educated in a foreign country.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 879,         Frank                                                  ,"Relating to the licensing of certain military veterans as health care   providers.",
-Monday,"Public
+House,Monday,"Public
   Health",HB 913,         Frank                                                  ,"Relating to certain state hospital names and the management of state   hospitals.",
-Monday,"Pensions,
+House,Monday,"Pensions,
   Investments & Financial Services",HB 201,"         Perez,","Mary Ann    Relating to the financial crimes intelligence center.",
-Monday,"Pensions,
+House,Monday,"Pensions,
   Investments & Financial Services",HB 272,"         Perez,","Mary Ann                                             Relating to the prosecution of the offense of fraudulent use or possession of   credit card or debit card information.",
-Monday,"Pensions,
+House,Monday,"Pensions,
   Investments & Financial Services",HB 618,         Walle                                                  ,"Relating to health benefit plan coverage of certain in vitro fertilization   procedures for certain governmental employees and retirees.",
-Monday,"Pensions,
+House,Monday,"Pensions,
   Investments & Financial Services",HB 1094,        Lambert                                                ,Relating to the regulation of transportation protection agreements.,
-Monday,"Pensions,
+House,Monday,"Pensions,
   Investments & Financial Services",HB 1142,        Oliverson                                              ,"Relating to coverage for mental health conditions and substance use disorders   under certain governmental health benefit plans.",
-Monday,"S/C
+House,Monday,"S/C
   on County & Regional Government",HB 336,         Schofield                                  ,"Relating to the authority of sheriffs and constables to enter into contracts   to provide law enforcement services in certain counties and county financial   authority in relation to sheriffs and constables in certain counties.",
-Monday,"S/C
+House,Monday,"S/C
   on County & Regional Government",HB 554,"         Leo","Wilson | et al.                            Relating to the sale of fireworks on and before the Juneteenth holiday in   certain counties.",
-Monday,"S/C
+House,Monday,"S/C
   on County & Regional Government",HB 849,         Vasut                                      ,"Relating to the authority of a county board of park commissioners to hold a   meeting by videoconference call.",
-Monday,"S/C
+House,Monday,"S/C
   on County & Regional Government",HB 1033,"        Morales,","Eddie                                 Relating to the applicability of the law governing a grant program for public   improvement projects for unincorporated communities in certain counties.",
-Monday,"S/C
+House,Monday,"S/C
   on County & Regional Government",HB 1338,"        Leo","Wilson | et al.                            Relating to the hours of work of certain county employees.",
-Monday,"S/C
+House,Monday,"S/C
   on County & Regional Government",HB 336,HB 336,"HB 1033   Bills deleted after last   posting: HB 1246",
-Monday,"Energy
+House,Monday,"Energy
   Resources",HB 206,         Craddick                                   ,"Relating to limitations on a county's authority to require a cash bond before   approving the construction of a pipeline.",
-Monday,"Energy
+House,Monday,"Energy
   Resources",HB 1285,        Geren                                      ,"Relating to inspections and examinations by the Railroad Commission of Texas   of certain sites and facilities conducted using unmanned aircraft.",
-Monday,"Energy
+House,Monday,"Energy
   Resources",HB 1335,        Gerdes                                     ,Relating to underground facility safety.,
-Monday,"Energy
+House,Monday,"Energy
   Resources",HJR 107,        Landgraf                                   ,"Proposing a constitutional amendment protecting the right to engage in the   exploration for and production and export of oil, gas, and other minerals.",
-Monday,"S/C
+House,Monday,"S/C
   on Defense & Veterans' Affairs",HB 39,"          Lopez,","Ray | et al.                                         Relating to information and data regarding the incidence of veteran deaths in   this state.",
-Monday,"S/C
+House,Monday,"S/C
   on Defense & Veterans' Affairs",HB 227,"         Vasut","| et al.                                              Relating to the designation of a portion of Farm-to-Market Road 521 in   Brazoria County as the Clarence ""BB"" Sasser Medal of Honor Highway.",
-Monday,"S/C
+House,Monday,"S/C
   on Defense & Veterans' Affairs",HB 930,         Cain                                                   ,"Relating to certain requirements for activation of the Texas National Guard   into active combat duty.",
-Monday,"S/C
+House,Monday,"S/C
   on Defense & Veterans' Affairs",HB 1078,        Turner                                                 ,"Relating to the creation, distribution, and posting of a veterans benefits   and services poster in the workplace.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HB 134,         Meyer,"Relating to the location at which certain sales are consummated for purposes   of local sales and use taxes.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HB 135,         Button                                    ,"Relating to an exemption from sales and use taxes for game animals and exotic   animals.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HB 1109,        VanDeaver                                 ,"Relating to an exemption from certain motor fuel taxes for counties in this   state.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HB 1243,        Guillen                                   ,"Relating to the authority of spouses who occupy separate properties as their   principal residences to each qualify the property in which they reside as   their residence homestead for ad valorem tax purposes.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HB 1392,        Bucy                                      ,"Relating to the postponement of the delinquency date for a payment of ad   valorem taxes imposed by a taxing unit if the office of the collector for the   taxing unit is closed on the delinquency date.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HB 1399,        Harris                                    ,"Relating to an exemption from ad valorem taxation of tangible personal   property consisting of animal feed held by the owner of the property for sale   at retail.",
-Monday,"Ways
+House,Monday,"Ways
   & Means",HJR 99,         Harris                                    ,"Proposing a constitutional amendment authorizing the legislature to exempt   from ad valorem taxation tangible personal property consisting of animal feed   held by the owner of the property for sale at retail.",
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HB 451,         Thompson                                               ,"Relating to a screening for the risk of commercial sexual exploitation of   certain children.",
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HB 645,"         Gonzalez,","Mary                                              Relating to the provision of certain co-navigation services to individuals   who are deaf-blind.",
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HB 1041,        Turner                                                 ,"Relating to the insurable interest of certain persons providing care to   individuals with disabilities in the life of those individuals.",
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HB 1151,        Hull                                                   ,"Relating to neglect of a child and the grounds for termination of the   parent-child relationship and possession of a child by the Department of   Family and Protective Services.",
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HB 1155,        Hull                                                   ,"Relating to monetary assistance provided by the Department of Family and   Protective Services to certain parents.",
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HB 1536,        Craddick                                               ,Relating to a rural community-based care pilot program.,
-Tuesday,"Human
+House,Tuesday,"Human
   Services",HCR 12,"         Leo","Wilson                                                 Designating September as Deaf Awareness Month for a 10-year period ending in   2035.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 21,          Gates                                      ,Relating to housing finance corporations; authorizing a fee.,
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 211,         Bernal                                     ,"Relating to the evaluation of applications for certain financial assistance   administered by the Texas Department of Housing and Community Affairs.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 223,         Capriglione                                ,"Relating to exemptions to competitive requirements for purchases of certain   services by a municipality.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 323,         Spiller                                    ,"Relating to requiring political subdivisions of this state to participate in   the federal electronic verification of employment authorization program, or   E-verify.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 524,         Tepper                                     ,"Relating to the review and approval of certain proposed municipal initiatives   and referendums.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 530,         Troxclair                                  ,"Relating to the authority of a political subdivision to establish and operate   a guaranteed income program.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 636,         Walle                                      ,"Relating to the implementation of a statewide homeless data sharing network   to share real-time data on homelessness.",
-Tuesday,"Intergovernmental
+House,Tuesday,"Intergovernmental
   Affairs",HB 762,         Leach                                      ,"Relating to severance pay for political subdivision employees and independent   contractors.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 6,"           Leach","| et al.                                              Relating to discipline in public schools.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 27,          King                                                   ,"Relating to courses in personal financial literacy and economics for high   school students in public schools.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 123,         Dutton                                                 ,"Relating to measures to support kindergarten readiness and early literacy and   numeracy skills for public school students, including an early childhood   parental support program, and to funding under the Foundation School Program   for certain school districts and to support those measures.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 210,         Guillen                                                ,"Relating to contracting with a school district by a vendor with whom a member   of the board of trustees of the district or a related individual has certain   business interests; creating a criminal offense.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 213,"         Gonzalez,","Mary                                              Relating to the inclusion of chronically absent students as students at risk   of dropping out of school and the collection and reporting of data regarding   those students.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 222,         Talarico                                               ,"Relating to the permissible uses of the school safety allotment under the   Foundation School Program.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 610,"         Leo","Wilson | et al.                                         Relating to a severance payment to a superintendent of a school district.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 1085,        Curry                                                  ,"Relating to the offering of a lifetime recreation and outdoor pursuits course   to satisfy the physical education curriculum requirements for public high   school students.",
-Tuesday,"Public
+House,Tuesday,"Public
   Education",HB 1481,"        Fairly","| et al.                                             Relating to the use of personal wireless communication devices by students   during instructional time.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HB 36,          Bowers                                                 ,"Relating to the monitoring of certain family violence offenders, the   provision of resources for family violence victims, and the collection of   information about conditions of bond imposed in family violence cases and   certain other criminal cases.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HB 75,          Smithee                                                ,"Relating to the release of defendants on bail, the duties of a magistrate in   certain criminal proceedings, and the regulation of charitable bail   organizations.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HB 76,          Smithee                                                ,"Relating to the use by a political subdivision of public funds to pay bail   bonds.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HB 166,         Capriglione                                            ,"Relating to committing the criminal offense of endangering a child, elderly   individual, or disabled individual by engaging in certain conduct involving a   controlled substance listed in Penalty Group 1-B of the Texas Controlled   Substances Act.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HB 799,         Moody                                                  ,"Relating to the release on personal bond of certain defendants charged with a   misdemeanor or state jail felony.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HB 1135,        Isaac                                                  ,"Relating to temporary vehicle tags and the offense of tampering with a   governmental record.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HJR 15,         Smithee                                                ,"Proposing a constitutional amendment authorizing the denial of bail under   limited circumstances to a person accused of certain violent or sexual   offenses or of continuous trafficking of persons.",
-Tuesday,"Criminal
+House,Tuesday,"Criminal
   Jurisprudence",HJR 16,         Smithee                                                ,"Proposing a constitutional amendment requiring the denial of bail for an   illegal alien charged with an offense punishable as a felony.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 147,         Guillen,"Relating to the establishment of an electronic registry of livestock marks   and brands.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 1113,        Cain                                                   ,"Relating to the production and regulation of hemp; providing an   administrative penalty; requiring a permit to conduct certain research   involving hemp; authorizing a fee; creating a criminal offense.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 1203,"        Gonzalez,","Jessica                                           Relating to the establishment of the office of food system security and   resiliency in the Department of Agriculture and the management of the Texas   food system security and resiliency planning council.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 1269,"        Gonzalez,","Mary                                              Relating to the plant disease and pest prevention grant program.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 1276,"        Gonzalez,","Mary                                              Relating to a study of this state's response to plant disease or pest   outbreaks.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 1277,"        Gonzalez,","Mary                                              Relating to the study of plant disease and pest outbreaks by the Texas   A&M AgriLife Extension Service.",
-Tuesday,"Agriculture
+House,Tuesday,"Agriculture
   & Livestock",HB 1437,"        Gonzalez,","Mary                                              Relating to the task force on pollinator health.",
-Wednesday,Insurance,HB 138,         Dean                                       ,"Relating to the establishment of the Health Impact, Cost, and Coverage   Analysis Program; authorizing a fee.",
-Wednesday,Insurance,HB 335,         Cortez                                     ,"Relating to the payments and reimbursements for noncontracting and   contracting provider dentists under certain health benefit plans.",
-Wednesday,Insurance,HB 388,"         Harris","Davila                                  Relating to a uniform coordination of benefits questionnaire for health   benefit plans.",
-Wednesday,"Judiciary
+House,Wednesday,Insurance,HB 138,         Dean                                       ,"Relating to the establishment of the Health Impact, Cost, and Coverage   Analysis Program; authorizing a fee.",
+House,Wednesday,Insurance,HB 335,         Cortez                                     ,"Relating to the payments and reimbursements for noncontracting and   contracting provider dentists under certain health benefit plans.",
+House,Wednesday,Insurance,HB 388,"         Harris","Davila                                  Relating to a uniform coordination of benefits questionnaire for health   benefit plans.",
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 170,"         Guillen","| et al.                               Relating to civil liability arising out of justified uses of or threats to   use force or deadly force.",
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 865,         Moody                                      ,Relating to civil liability arising from a firearm hold agreement.,
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 748,         Leach                                      ,"Relating to the enforceability of certain nondisclosure or confidentiality   provisions with respect to an act of sexual abuse committed against a child.",
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HJR 112,        Frank                                      ,"Proposing a constitutional amendment protecting the right of parents to raise   their children.",
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 1110,        Shaheen                                    ,"Relating to a limitation on civil suits against persons reporting suspicious   activity in good faith.",
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 1495,"        Morales,","Eddie                                 Relating to the prohibited release of personal information collected during   the jury selection process.",
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 786,"         Jones,","Jolanda                                 Relating to justice court security in certain counties.",
-Wednesday,"Judiciary
+House,Wednesday,"Judiciary
   & Civil Jurisprudence",HB 1130,        Isaac                                      ,"Relating to liability of a cavern entity for injuries arising from certain   activities.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1089,"        Paul","| et al.    Relating to creation of the gulf coast protection account to be administered   by the General Land Office.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1163,        Cunningham                                             ,"Relating to planning and financial responsibility requirements for certain   aggregate production operations; providing for the imposition of an   administrative penalty.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1177,        Cunningham                                             ,"Relating to the creation of the criminal offense of diverting or impounding   the flow of surface water in a manner that damages the property of another by   the overflow of the water diverted or impounded.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1238,        Guillen                                                ,"Relating to the inspection of the location of a proposed Class I injection   well.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1318,        Guillen                                                ,"Relating to a certificate of public convenience and necessity to provide   water or sewer service in an area incorporated or annexed by a municipality.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1400,        Harris                                                 ,"Relating to creation of the groundwater science, research, and innovation   fund to be administered by the Texas Water Development Board.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1407,        Guillen                                                ,"Relating to public utility agencies; providing authority to issue bonds;   providing authority to impose assessments.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HB 1532,        Cunningham                                             ,"Relating to the creation of the Lake Houston Dredging and Maintenance   District; providing the authority to issue bonds.",
-Wednesday,"Natural
+House,Wednesday,"Natural
   Resources",HJR 7,          Harris                                                 ,"Proposing a constitutional amendment to dedicate a portion of the revenue   derived from state sales and use taxes to the Texas water fund.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 14,          Harris                                     ,"Relating to funding mechanisms within the Office of the Governor and Texas   Public Utility Commission to support the deployment of advanced nuclear   reactors in this state.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 106,         King                                       ,"Relating to the maintenance of certain improvements associated with oil and   gas development and production; authorizing an administrative penalty.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 146,         Geren                                      ,"Relating to the required approval by the State Preservation Board of certain   traffic changes near the state capitol.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 267,         Patterson                                  ,"Relating to affirmative defenses to prosecution for certain offenses   involving material or conduct that is obscene or otherwise harmful to   children.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 274,         Cain                                       ,"Relating to the establishment of the District of Austin as the seat of state   government.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 1127,        Gamez                                      ,"Relating to the promotion of breast-feeding and the prohibition against   interference with or restriction of the right to breast-feed.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 1359,        Hernandez                                  ,"Relating to a program to provide assistance for certain retail electric   customers; authorizing a fee.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 1393,        Metcalf                                    ,Relating to daylight saving time.,
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 1584,        Hull                                       ,"Relating to the creation of a list of priority facilities by electric   utilities.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 1640,        VanDeaver                                  ,Relating to a customer guide to home solar energy devices.,
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 1710,        Landgraf                                   ,"Relating to certificates of convenience and necessity for the construction,   ownership, or operation of facilities for the transmission of electricity.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HB 2152,"        Morales,","Eddie                                 Relating to a reliability plan for electric transmission service in the   Permian Basin.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HCR 101,        King                                       ,"Designating the tomahawk rib-eye steak as the official State Steak of Texas   and directing the Texas Department of Agriculture to promote the tomahawk   rib-eye steak as part of efforts to support Texas beef and agricultural   products.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HJR 8,          Harris                                     ,"Proposing a constitutional amendment providing for the creation of the Texas   nuclear development fund to support the development, construction, and   operation of advanced nuclear reactor projects.",
-Wednesday,"State
+House,Wednesday,"State
   Affairs",HR 51,"          Raymond","| et al.                               Condemning the assassination attempt on former President Donald Trump and   denouncing political violence.",
-Wednesday,"Trade,
+House,Wednesday,"Trade,
   Workforce & Economic Development",HB 186,"         Patterson","| et al.                             Relating to prohibiting use of social media platforms by children.",
-Wednesday,"Trade,
+House,Wednesday,"Trade,
   Workforce & Economic Development",HB 517,"         Harris","Davila                                  Relating to the authority of a property owners' association to assess a fine   for discolored vegetation or turf during a period of residential watering   restriction.",
-Wednesday,"Trade,
+House,Wednesday,"Trade,
   Workforce & Economic Development",HB 1093,"        Lambert","| et al.                               Relating to requirements for notice advertising the sale of property to   enforce a self-service storage facility lien.",
-Wednesday,"Trade,
+House,Wednesday,"Trade,
   Workforce & Economic Development",HB 1268,        Button                                     ,Relating to the creation of the Texas technology and innovation program.,
-Wednesday,"Trade,
+House,Wednesday,"Trade,
   Workforce & Economic Development",HB 1395,        Lujan                                      ,Relating to the regulation of private passenger vehicle rental companies.,
-Wednesday,"Delivery
+House,Wednesday,"Delivery
   of Government Efficiency",HB 150,         Capriglione                                ,"Relating to the establishment of the Texas Cyber Command as a component   institution of The University of Texas System and the transfer to it of   certain powers and duties of the Department of Information Resources.",
-Wednesday,"Delivery
+House,Wednesday,"Delivery
   of Government Efficiency",HB 869,         Lalani                                     ,"Relating to the review and revision by the state's classification officer of   information in the position classification plan regarding state information   technology positions.",
-Wednesday,"Delivery
+House,Wednesday,"Delivery
   of Government Efficiency",HB 876,         Lalani                                     ,"Relating to the establishment of certain information sharing and analysis   organizations by the Department of Information Resources.",
-Wednesday,"Delivery
+House,Wednesday,"Delivery
   of Government Efficiency",HB 1043,"        Bhojani","| et al.                               Relating to a study by the General Land Office on the establishment and   implementation by the General Land Office of a distributed ledger-based title   registry pilot program.",
-Wednesday,"Delivery
+House,Wednesday,"Delivery
   of Government Efficiency",HB 1494,        Patterson                                  ,"Relating to venue in certain actions challenging the constitutionality,   validity, or applicability of state agency administrative rules.",
-Wednesday,"Delivery
+House,Wednesday,"Delivery
   of Government Efficiency",HB 1522,        Gerdes                                     ,Relating to notice of a meeting held under the open meetings law.,
-Wednesday,"Homeland
+House,Wednesday,"Homeland
   Security, Public Safety & Veterans' Affairs",HB 33,          McLaughlin,"Relating to active shooter events and other emergencies, including certain   accreditations of law enforcement agencies that respond to such emergencies.",
-Wednesday,"Homeland
+House,Wednesday,"Homeland
   Security, Public Safety & Veterans' Affairs",HB 298,         DeAyala                                                ,"Relating to the content of a driver's license or personal identification   certificate.",
-Wednesday,"Homeland
+House,Wednesday,"Homeland
   Security, Public Safety & Veterans' Affairs",HB 1024,        Shaheen                                                ,"Relating to the execution of a warrant issued for certain releasees who   violate a condition of parole or mandatory supervision related to the   electronic monitoring of the releasee.",
-Wednesday,"Homeland
+House,Wednesday,"Homeland
   Security, Public Safety & Veterans' Affairs",HB 1234,        Guillen                                                ,"Relating to certain procedures required for the denial of certain   applications for a license to carry a handgun.",
-Wednesday,"Homeland
+House,Wednesday,"Homeland
   Security, Public Safety & Veterans' Affairs",HB 1261,        Cunningham                                             ,"Relating to the disposition of abandoned or unclaimed property seized by a   peace officer.",
-Wednesday,"Homeland
+House,Wednesday,"Homeland
   Security, Public Safety & Veterans' Affairs",HB 1696,        Canales                                                ,"Relating to adding a designation on a person's driver's license or commercial   driver's license indicating that the person is licensed to carry a handgun.",
-Thursday,"Land
+House,Thursday,"Land
   & Resource Management",HB 24,          Orr                                                    ,"Relating to procedures for changes to a zoning regulation or district   boundary.",
-Thursday,"Land
+House,Thursday,"Land
   & Resource Management",HB 950,         Hayes                                                  ,"Relating to the provision of municipal services to land annexed by a   municipality for full purposes.",
-Thursday,"Land
+House,Thursday,"Land
   & Resource Management",HB 1228,        Gates                                                  ,"Relating to municipal and county permitting requirements to conduct certain   repairs on residential buildings.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Disease Prevention & Women's & Children's Health",HB 25,"          Hull","| et al.                                              Relating to health and nutrition standards to promote healthy living.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Disease Prevention & Women's & Children's Health",HB 38,          Bucy                                                   ,Relating to improvements to the Texas Information and Referral Network.,
-Thursday,"S/C
+House,Thursday,"S/C
   on Disease Prevention & Women's & Children's Health",HB 997,         Shaheen                                                ,"Relating to the provision of telehealth and telemedicine medical services by   certain health professionals located outside of this state; requiring   registration to engage in an occupation; authorizing fees.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Disease Prevention & Women's & Children's Health",HB 1119,        Gamez                                                  ,"Relating to a biennial report on the regional allocation of mental health   beds.",
-Thursday,Transportation,HB 408,"         Harris","Davila    Relating to the awarding of contracts by the Texas Department of   Transportation for certain materials used in road construction projects.",
-Thursday,Transportation,HB 787,"         Leo","Wilson | et al.                                         Relating to authorizing the Texas Department of Transportation to provide   battery service to a vehicle transported on the Galveston-Port Bolivar ferry;   authorizing a fee.",
-Thursday,Transportation,HB 1029,"        Morales,","Eddie                                              Relating to the installation of highway signs for certain cultural   attractions by the Texas Department of Transportation.",
-Thursday,Transportation,HB 1126,        Gamez                                                  ,"Relating to sunscreening devices installed on a motor vehicle displaying a   judicial specialty license plate.",
-Thursday,Transportation,HB 1136,        Gamez                                                  ,"Relating to a study conducted by the Texas Department of Motor Vehicles   regarding parking for certain individuals with disabilities.",
-Thursday,Transportation,HB 1607,        Metcalf                                                ,"Relating to license plates and license plate windshield insignia issued for   and displayed on a vehicle; authorizing a fee; creating a criminal offense.",
-Thursday,"Culture,
+House,Thursday,Transportation,HB 408,"         Harris","Davila    Relating to the awarding of contracts by the Texas Department of   Transportation for certain materials used in road construction projects.",
+House,Thursday,Transportation,HB 787,"         Leo","Wilson | et al.                                         Relating to authorizing the Texas Department of Transportation to provide   battery service to a vehicle transported on the Galveston-Port Bolivar ferry;   authorizing a fee.",
+House,Thursday,Transportation,HB 1029,"        Morales,","Eddie                                              Relating to the installation of highway signs for certain cultural   attractions by the Texas Department of Transportation.",
+House,Thursday,Transportation,HB 1126,        Gamez                                                  ,"Relating to sunscreening devices installed on a motor vehicle displaying a   judicial specialty license plate.",
+House,Thursday,Transportation,HB 1136,        Gamez                                                  ,"Relating to a study conducted by the Texas Department of Motor Vehicles   regarding parking for certain individuals with disabilities.",
+House,Thursday,Transportation,HB 1607,        Metcalf                                                ,"Relating to license plates and license plate windshield insignia issued for   and displayed on a vehicle; authorizing a fee; creating a criminal offense.",
+House,Thursday,"Culture,
   Recreation & Tourism",HB 609,         Vasut,"Relating to the cleaning of a structure used to grow oysters for cultivated   oyster mariculture.",
-Thursday,"Culture,
+House,Thursday,"Culture,
   Recreation & Tourism",HB 630,         Vasut                                                  ,Relating to certificates of title for certain outboard motors.,
-Thursday,"Culture,
+House,Thursday,"Culture,
   Recreation & Tourism",HB 654,"         Leo","Wilson | et al.                                         Relating to the dismissal of a criminal charge related to the illegal hunting   of certain deer; authorizing fees.",
-Thursday,"Culture,
+House,Thursday,"Culture,
   Recreation & Tourism",HB 676,         Gervin-Hawkins                                          ,"Relating to the use of an unmanned aircraft to locate and retrieve wounded or   killed wildlife.",
-Thursday,Elections,HB 242,"         Guillen","| et al.    Relating to the creation of the criminal offense of obtaining personally   identifiable voter information.",
-Thursday,Elections,HB 342,         Hayes                                      ,Relating to the combination of certain election precincts.,
-Thursday,Elections,HB 392,         Flores                                     ,"Relating to the provision of the reason for rejecting a voter registration   application.",
-Thursday,Elections,HB 493,         Shaheen                                    ,Relating to ineligibility to serve as a poll watcher.,
-Thursday,Elections,HB 521,         Guillen                                    ,"Relating to accommodating voters with a disability; creating criminal   offenses.",
-Thursday,Elections,HB 614,         Bucy                                       ,"Relating to the procedures for voting after changing residence to another   county.",
-Thursday,Elections,HB 631,         Swanson                                    ,"Relating to requirements for certain petitions requesting an election and   ballot propositions and to related procedures and provisions.",
-Thursday,Elections,HB 1090,        Paul                                       ,"Relating to prohibiting certain individuals from serving as a volunteer   deputy registrar.",
-Thursday,Elections,HB 1091,        Paul                                       ,"Relating to practices and procedures for an early voting ballot voted by   mail.",
-Thursday,Elections,HB 1477,        Swanson                                    ,"Relating to preparing and delivering precinct election returns; increasing a   criminal penalty.",
-Thursday,"S/C
+House,Thursday,Elections,HB 242,"         Guillen","| et al.    Relating to the creation of the criminal offense of obtaining personally   identifiable voter information.",
+House,Thursday,Elections,HB 342,         Hayes                                      ,Relating to the combination of certain election precincts.,
+House,Thursday,Elections,HB 392,         Flores                                     ,"Relating to the provision of the reason for rejecting a voter registration   application.",
+House,Thursday,Elections,HB 493,         Shaheen                                    ,Relating to ineligibility to serve as a poll watcher.,
+House,Thursday,Elections,HB 521,         Guillen                                    ,"Relating to accommodating voters with a disability; creating criminal   offenses.",
+House,Thursday,Elections,HB 614,         Bucy                                       ,"Relating to the procedures for voting after changing residence to another   county.",
+House,Thursday,Elections,HB 631,         Swanson                                    ,"Relating to requirements for certain petitions requesting an election and   ballot propositions and to related procedures and provisions.",
+House,Thursday,Elections,HB 1090,        Paul                                       ,"Relating to prohibiting certain individuals from serving as a volunteer   deputy registrar.",
+House,Thursday,Elections,HB 1091,        Paul                                       ,"Relating to practices and procedures for an early voting ballot voted by   mail.",
+House,Thursday,Elections,HB 1477,        Swanson                                    ,"Relating to preparing and delivering precinct election returns; increasing a   criminal penalty.",
+House,Thursday,"S/C
   on Juvenile Justice",HB 355,         Craddick                                               ,"Relating to the period within which the Texas Juvenile Justice Department   must accept custody of a person committed to the department and to the   consequences for the failure of the department to accept custody of the   person within that period.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Juvenile Justice",HB 437,         Swanson                                                ,"Relating to the placement of children in a detention or correctional facility   according to biological sex.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Juvenile Justice",HB 1631,        Gamez                                                  ,"Relating to the duration of a child's detention following a detention hearing   and a study on the effects of detention orders in a juvenile court   proceeding.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 148,         Turner                                     ,"Relating to the qualification of candidates for, and the training and   education of members of, the board of directors of an appraisal district.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 203,         Goodwin                                    ,"Relating to a limitation on increases in the appraised value for ad valorem   tax purposes of certain leased residential real property.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 360,         Vasut                                      ,"Relating to the authority of an appraisal review board to direct changes in   the appraisal roll and related appraisal records if a residence homestead is   sold for less than the appraised value.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 552,"         Gonzalez,","Mary                                 Relating to a study by the Texas A&M AgriLife Extension Service to   determine standards for the appraisal for ad valorem tax purposes of certain   agricultural land used to raise or keep bees.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 1244,        Guillen                                    ,"Relating to the eligibility of land to continue to be appraised for ad   valorem tax purposes as qualified open-space land following a transfer to a   person who uses the land in materially the same way as the former owner and   to late applications for such appraisal filed by the new owner of the land.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 1284,        Geren                                      ,"Relating to the duty of an appraisal review board to determine a motion or   protest filed by a property owner and the right of the owner to appeal the   board's determination.",
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HB 1533,        Button                                     ,Relating to the system for appraising property for ad valorem tax purposes.,
-Thursday,"S/C
+House,Thursday,"S/C
   on Property Tax Appraisals",HJR 30,         Goodwin                                    ,"Proposing a constitutional amendment to authorize the legislature to provide   for a limitation on the maximum appraised value for ad valorem tax purposes   of certain leased residential real property.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1194,        Flores                  ,"Relating to creating the Central Texas Water Alliance; providing authority to   issue bonds; granting the power of eminent domain; providing authority to   impose fees.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1215,"        Kolkhorst","| et al.           Relating to the placement of a cultivated oyster in a natural oyster bed, a   private oyster bed, or coastal waters.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1253,        Perry                   ,"Relating to the authority of a political subdivision to provide credits   against impact fees to builders and developers for certain water conservation   and reuse projects.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1268,        Blanco                  ,"Relating to the review and updating by the Texas Water Development Board of   guidance principles and rules related to certain plans adopted or approved by   the board.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1302,        Kolkhorst               ,"Relating to eligibility for a general permit to discharge waste into or   adjacent to waters in this state.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1484,"        Hinojosa,","Adam               Relating to the marketing and sale of catfish and similar fish by food   service establishments; providing administrative and civil penalties.",
-Monday,"Water,
+Senate,Monday,"Water,
   Agriculture and Rural Affairs",SB 1532,        Zaffirini               ,"Relating to the information required to be posted by the Texas Water   Development Board on the board's Internet website regarding the use of the   state water implementation fund for Texas.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 8,"           Schwertner","| et al.    Relating to agreements between sheriffs and the United States Immigration and   Customs Enforcement to enforce federal immigration law.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 650,         West,"Relating to requiring the use of electronically readable information to   verify a purchaser's age in the retail sale of alcoholic beverages.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 667,         Hughes,"Relating to prohibiting state retirement systems from investing in certain   Chinese-affiliated entities.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 779,         Middleton,Relating to common law public nuisance claims.,
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 1349,        Hughes,"Relating to creating the criminal offenses of transnational repression and   unauthorized enforcement of foreign law and to a study and law enforcement   training regarding transnational repression.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 1355,"        Parker","| et al.    Relating to liquor sales on credit by the holder of a distiller's and   rectifier's permit to a wholesaler.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 1378,        Parker,"Relating to the powers of certain nonresident seller's permit holders who   also hold a winery permit.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 1585,        Hughes,"Relating to a prohibition on governmental contracts with companies of foreign   adversaries for certain information and communications technology;   authorizing a civil penalty; creating a criminal offense.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 1721,"        Middleton","| et al.    Relating to the transfer of the licensing and regulation of charitable bingo   to the Texas Commission of Licensing and Regulation.",
-Monday,"State
+Senate,Monday,"State
   Affairs",SB 2312,        Hughes,"Relating to the establishment and powers and duties of the Texas Advisory   Committee on Geopolitical Conflict.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 462,"         Kolkhorst","| et al.           Relating to establishing a child-care services waiting list priority for the   children of certain child-care workers.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 519,         Middleton               ,"Relating to the creation of a grant program to promote educational engagement   with Texas history.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 878,         Birdwell                ,"Relating to limitations on the use of public money under certain economic   development agreements or programs adopted by certain political subdivisions.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 972,         Zaffirini               ,"Relating to reimbursement rates for child-care providers participating in the   Texas Rising Star Program.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 1228,        Hughes                  ,"Relating to the continuation of the Task Force on Consolidation of Workforce   and Social Services.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 1350,        Hughes                  ,"Relating to a commission to coordinate celebrations of the bicentennial   anniversary of Texas' independence.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 1356,        Parker                  ,"Relating to the Texas alcohol tourism development program and advisory   committee.",
-Monday,"Economic
+Senate,Monday,"Economic
   Development",SB 1535,"        Zaffirini","| et al.           Relating to the establishment by the Texas Workforce Commission of an   advanced nuclear energy workforce development program.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 393,         Sparks                  ,"Relating to the authority of a political subdivision to issue debt to   purchase or lease tangible personal property.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 414,         Middleton               ,Relating to the text of ballot propositions for bond elections.,
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 472,         Sparks                  ,"Relating to the right of the chief appraiser of an appraisal district, the   appraisal district, or the appraisal review board of the appraisal district   to bring certain claims in an appeal of an order of the appraisal review   board.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 578,         West                    ,"Relating to surveillance cameras for housing developments that receive an   allocation of low income housing tax credits.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 617,         Schwertner              ,"Relating to hearing and public notice requirements regarding the conversion   by a municipality of certain properties to house homeless individuals.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 710,         Eckhardt                ,"Relating to the establishment and use of a written electronic communications   system accessible to the public by certain municipal entities.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 785,         Flores                  ,Relating to the regulation of new HUD-code manufactured housing.,
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 973,"         Eckhardt","| et al.            Relating to the prohibition on posting on the Internet information held by an   appraisal district regarding certain residential property.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1059,"        Parker","| et al.              Relating to the authority of the governing body of a home-rule municipality   to submit a proposed charter amendment to the voters for approval if   application of the provisions of the amendment would be contrary to state   law.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1062,        Kolkhorst               ,Relating to the type of newspaper required for publication of public notices.,
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1352,"        Hinojosa,","Adam               Relating to the deadline for filing an application for certain ad valorem tax   exemptions or allocations and the calculation of the penalty for filing a   late application for such an exemption or allocation.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1450,        Bettencourt             ,"Relating to third-party review of development documents and inspection of   improvements required to be approved by a political subdivision.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1502,        Bettencourt             ,"Relating to the authority of the governing body of a school district to adopt   an ad valorem tax rate that exceeds the district's voter-approval tax rate.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1547,        Zaffirini               ,Relating to fees charged by county clerks for certain property records.,
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1566,        Bettencourt             ,"Relating to connection of utilities by certain entities in certain   subdivisions formerly located in a municipality's extraterritorial   jurisdiction.",
-Monday,"Local
+Senate,Monday,"Local
   Government",SB 1567,"        Bettencourt","| et al.         Relating to the authority of home-rule municipalities to regulate the   occupancy of dwelling units.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 264,         Perry                   ,"Relating to discontinuing group self-insurance coverage and dissolving the   Texas self-insurance group guaranty fund and trust fund under the Texas   Workers' Compensation Act.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 542,         Schwertner              ,"Relating to the authority of a property owners' association to assess a fine   for discolored vegetation or turf during a period of residential watering   restriction.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 924,         Hancock                 ,Relating to entities that provide cable services or video services.,
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1008,"        Middleton","| et al.           Relating to state and local authority to regulate the food service industry.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1029,        Nichols                 ,Relating to the advertising of certain used motor vehicles.,
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1036,        Zaffirini               ,"Relating to the regulation of residential solar retail transactions;   requiring an occupational registration; authorizing fees; providing civil and   administrative penalties.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1057,        Parker                  ,Relating to shareholder proposals submitted to certain domestic corporations.,
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1058,        Parker                  ,"Relating to the exclusion of certain securities transaction payments from the   total revenue of a taxable entity that is an exchange or a member of an   exchange for purposes of the franchise tax.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1185,        Creighton               ,"Relating to an exemption from boiler registration and inspection requirements   for certain boilers in medical equipment and autoclaves.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1202,        King                    ,"Relating to third-party review of property development documents and   inspections of improvements related to those documents, including home backup   power installations.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1358,        Parker                  ,"Relating to prohibited local regulations regarding certain late-night and   overnight deliveries to food service establishments.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1364,        Nichols                 ,"Relating to the repeal of wheelbase and horsepower restrictions for the   state's passenger vehicle fleet.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1376,        Hughes                  ,"Relating to the supervision requirements of a code enforcement officer in   training.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1569,        King                    ,"Relating to the availability of certain personal information of a member of   the governing board of an institution of higher education, the chief   executive officer of the institution, or the chief executive officer of a   university system.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1664,        Schwertner              ,"Relating to public information regarding the rates of a transmission and   distribution utility.",
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SB 1697,        Zaffirini               ,Relating to a customer guide to home solar energy devices.,
-Tuesday,"Business
+Senate,Tuesday,"Business
   & Commerce",SJR 50,         Parker                  ,"Proposing a constitutional amendment prohibiting the enactment of a law   imposing an occupation tax on certain entities that enter into transactions   conveying securities or imposing a tax on certain securities transactions.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 251,         Flores                  ,Relating to the creation of criminal law magistrates for Bell County.,
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 608,         Flores                  ,Relating to reporting information regarding certain evidence collection kits.,
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 487,         Alvarado                ,"Relating to the confidentiality of identifying information of victims of   certain offenses.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 535,         Huffman                 ,"Relating to the admissibility of evidence regarding a victim's past sexual   behavior in prosecutions of certain trafficking, sexual, or assaultive   offenses.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 761,"         Hinojosa,","Juan ""Chuy""        Relating to rights of crime victims and the enforcement of those rights;   authorizing a civil penalty.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 955,         Parker                  ,Relating to the punishment for the offense of trafficking of persons.,
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 957,         Parker                  ,"Relating to the creation of the criminal offense of continuous aggravated   promotion of prostitution.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 958,         Parker                  ,"Relating to the eligibility of certain victims of trafficking of persons or   compelling prostitution for an order of nondisclosure of criminal history   record information.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 988,         Bettencourt             ,"Relating to increasing the criminal penalty for the offense of criminal   mischief involving impairment of a motor fuel pump.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 990,         Bettencourt             ,"Relating to increasing the punishment for certain conduct constituting the   offense of murder.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 1019,        Huffman                 ,"Relating to the admissibility of certain hearsay statements in the   adjudication of certain sexual or assaultive offenses committed against a   child or a person with a disability.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 1021,        Huffman                 ,"Relating to changing the eligibility for community supervision of a person   convicted of stalking.",
-Tuesday,"Criminal
+Senate,Tuesday,"Criminal
   Justice",SB 1120,"        Hinojosa,","Juan ""Chuy"" | et al.         Relating to rights of a victim, guardian of a victim, or close relative of a   deceased victim in certain criminal cases involving family violence, sexual   or assaultive offenses, stalking, or a violation of a protective order or   condition of bond.",
-Tuesday,"Veteran
+Senate,Tuesday,"Veteran
   Affairs",SB 651,         West,"Relating to the requirement that a veterans county service office report to   the commissioners court or a designee of the commissioners court.",
-Tuesday,"Veteran
+Senate,Tuesday,"Veteran
   Affairs",SB 897,         Blanco,"Relating to the administration of a grant program to support community mental   health programs assisting veterans and their families.",
-Tuesday,"Veteran
+Senate,Tuesday,"Veteran
   Affairs",SB 1814,        Hancock,"Relating to creation and maintenance of an electronic database to provide   information to certain members of the United States armed forces regarding   the resources and benefits provided to veterans.",
-Tuesday,"Veteran
+Senate,Tuesday,"Veteran
   Affairs",SB 1818,        Hancock,"Relating to the issuance of a provisional license to certain military service   members, military veterans, and military spouses to engage in a business or   occupation in this state.",
-Tuesday,"Health
+Senate,Tuesday,"Education
+  K-16",SB 207,"         Paxton","| et al.              Relating to excused absences from public school for certain students to   attend mental health care appointments.",
+Senate,Tuesday,"Education
+  K-16",SB 611,"         Hinojosa,","Juan ""Chuy""        Relating to a statewide standing order prescribing epinephrine auto-injectors   to public and private schools.",
+Senate,Tuesday,"Education
+  K-16",SB 920,         Sparks                    ,"Relating to the administration of medication by open-enrollment charter   schools, private schools, and school employees.",
+Senate,Tuesday,"Education
+  K-16",SB 1174,        Alvarado                  ,"Relating to the administration of nonprescription medications to certain   public and private school students.",
+Senate,Tuesday,"Education
+  K-16",SB 1207,"        King","| et al.                Relating to instruction on adoption in the parenting and paternity awareness   program in public schools.",
+Senate,Tuesday,"Education
+  K-16",SB 1325,        Johnson                   ,"Relating to the provision of medication for respiratory distress in public   and private schools.",
+Senate,Tuesday,"Education
+  K-16",SB 1396,        Hall                      ,"Relating to prohibiting the adoption or use of national sexuality education   standards in public schools.",
+Senate,Tuesday,"Education
+  K-16",SB 1551,        Cook                      ,"Relating to the availability of automated external defibrillators at public   schools.",
+Senate,Tuesday,"Education
+  K-16",SB 1619,        Zaffirini                ,Relating to the use of an epinephrine delivery device by certain entities.,
+Senate,Tuesday,"Health
   & Human Services",SB 95,          Hall                    ,"Relating to informed consent to immunizations for children and civil   liability for failure to obtain the consent.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 268,         Perry                   ,"Relating to the procedure for certain complaints against health care   practitioners.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 493,         Kolkhorst               ,"Relating to certain protected disclosures by pharmacists and pharmacies   regarding amounts charged for prescription drugs.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 619,         Sparks                  ,"Relating to protection of persons from participation in a health care service   for reasons of conscience; providing a civil remedy; authorizing disciplinary   action.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 660,         West                    ,"Relating to the installation of bollards or another safety barrier adjacent   to certain hospital emergency rooms.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 922,         Hancock                 ,"Relating to the disclosure of certain medical information by electronic   means.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 984,         Bettencourt             ,"Relating to access to individualized investigational treatments for patients   with life-threatening or severely debilitating illnesses.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 1098,        Blanco                  ,"Relating to the disclosure by a pharmacy to a patient of certain price   information for a drug or biological product.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 1188,        Kolkhorst               ,Relating to electronic health record requirements.,
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 1307,"        Cook","| et al.                Relating to a biennial health coverage reference guide developed by the Texas   Department of Insurance.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 1332,        Hancock                 ,"Relating to a group health benefit plan policy or contract holder's   obligation to pay premiums on behalf of an individual after the individual's   eligibility for group coverage terminates.",
-Tuesday,"Health
+Senate,Tuesday,"Health
   & Human Services",SB 1822,        Johnson                 ,"Relating to the use of artificial intelligence-based algorithms in   utilization review conducted for certain health benefit plans.",
-Wednesday,Finance,SB 266,         Perry                   ,Relating to certain tax and fee collection procedures and taxpayer suits.,
-Wednesday,Finance,SB 1018,        Huffman                 ,"Relating to distribution of state traffic fine revenue received by the   comptroller.",
-Wednesday,Finance,SB 1415,        Hughes                  ,"Relating to the sales tax exemption period for clothing, footwear, and   certain school-related items.",
-Wednesday,Finance,SB 1527,        West                    ,"Relating to the administration of, contributions to, and benefits under the   public retirement systems for police and firefighters in certain   municipalities.",
-Wednesday,Finance,SB 1737,"        Huffman","| et al.             Relating to service retirement benefits payable by the Employees Retirement   System of Texas to certain law enforcement officers and custodial officers.",
-Wednesday,Finance,SB 1738,        Huffman                 ,"Relating to the resumption of service by certain judicial officers under the   Judicial Retirement System of Texas Plan Two.",
-Wednesday,Finance,SJR 57,         Huffman                 ,"Proposing a constitutional amendment prohibiting the use of state funds to   pay for the obligations of a local public retirement system.",
-Wednesday,"Natural
+Senate,Wednesday,Finance,SB 266,         Perry                   ,Relating to certain tax and fee collection procedures and taxpayer suits.,
+Senate,Wednesday,Finance,SB 1018,        Huffman                 ,"Relating to distribution of state traffic fine revenue received by the   comptroller.",
+Senate,Wednesday,Finance,SB 1415,        Hughes                  ,"Relating to the sales tax exemption period for clothing, footwear, and   certain school-related items.",
+Senate,Wednesday,Finance,SB 1527,        West                    ,"Relating to the administration of, contributions to, and benefits under the   public retirement systems for police and firefighters in certain   municipalities.",
+Senate,Wednesday,Finance,SB 1737,"        Huffman","| et al.             Relating to service retirement benefits payable by the Employees Retirement   System of Texas to certain law enforcement officers and custodial officers.",
+Senate,Wednesday,Finance,SB 1738,        Huffman                 ,"Relating to the resumption of service by certain judicial officers under the   Judicial Retirement System of Texas Plan Two.",
+Senate,Wednesday,Finance,SJR 57,         Huffman                 ,"Proposing a constitutional amendment prohibiting the use of state funds to   pay for the obligations of a local public retirement system.",
+Senate,Wednesday,"Natural
   Resources",SB 2188,"        Hinojosa,","Adam               Relating to space flight activities.",
-Wednesday,"Natural
+Senate,Wednesday,"Natural
   Resources",SB 2230,"        Hinojosa,","Adam               Relating to the closure of beaches for space flight activities; creating a   criminal offense.",
-Wednesday,"Natural
+Senate,Wednesday,"Natural
   Resources",SB 1763,        Hughes                  ,Relating to the production and ownership of brine.,
-Wednesday,"Natural
+Senate,Wednesday,"Natural
   Resources",SB 879,         Birdwell                ,"Relating to an exemption for drillers or operators of closed-loop geothermal   injection wells from certain requirements applicable to persons involved in   activities under the jurisdiction of the Railroad Commission of Texas.",
-Wednesday,"Natural
+Senate,Wednesday,"Natural
   Resources",SB 1147,        Birdwell                ,"Relating to the withdrawal of the State of Texas from the Interstate Mining   Compact.",
-Thursday,"Border
+Senate,Thursday,"Border
   Security",SB 825,         Middleton               ,"Relating to an annual study on the economic, environmental, and financial   impact of illegal immigration in this state.",
