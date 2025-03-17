@@ -1,9 +1,17 @@
 import dash
 from dash import dcc, html, Input, Output, ctx, dash_table, no_update
-
+import dash_auth
 import pandas as pd
 import plotly.express as px
 import os
+
+
+VALID_USERS = {
+    "tythedataguy": "imprettycool"
+    "taylorb": "ilovetysomuch",
+    "leahc": "thisisdope",
+    "arielt": "iacceptgalleons"
+}
 
 # Define CSV file path
 DATA_FILE = "bills.csv"
@@ -36,6 +44,7 @@ sunburst_fig.update_layout(
 # Initialize Dash app
 app = dash.Dash(__name__)
 server = app.server  # Required for Render
+auth = dash_auth.BasicAuth(app, VALID_USERS)
 
 # Layout
 app.layout = html.Div([
