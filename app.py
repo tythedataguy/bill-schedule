@@ -7,7 +7,7 @@ import os
 
 
 VALID_USERS = {
-    "tythedataguy": "imprettycool"
+    "tythedataguy": "imprettycool",
     "taylorb": "ilovetysomuch",
     "leahc": "thisisdope",
     "arielt": "iacceptgalleons"
